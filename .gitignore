@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.jsonl
+*.log
+.codex-global-state*
+projects-current-format.json
+backups/
+.env*
